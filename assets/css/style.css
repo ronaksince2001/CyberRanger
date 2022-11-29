@@ -14,10 +14,10 @@
    * colors
    */
 
-  --space-cadet: hsl(240, 20%, 2%);
-  --red-crayola: hsl(235, 83%, 44%);
+  --space-cadet: hsl(224, 48%, 22%);
+  --red-crayola: hsl(342, 100%, 50%);
   --black-coral: hsl(219, 13%, 44%);
-  --blue-ryb: hsl(236, 84%, 24%);
+  --blue-ryb: hsl(244, 86%, 59%);
   --cultured: hsl(0, 0%, 96%);
   --white: hsl(0, 0%, 100%);
 
@@ -214,7 +214,7 @@ body { background: var(--white); }
   align-items: center;
 }
 
-.logo img { width: 160px; }
+.logo img { width: 130px; }
 
 .nav-toggle-btn {
   color: hsla(0, 0%, 0%, 0.8);
